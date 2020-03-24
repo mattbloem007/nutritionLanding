@@ -4,6 +4,7 @@ import Layout from '../components/layout'
 import Banner from '../components/Banner'
 import One from '../components/One'
 import Two from '../components/Two'
+import TwoTwo from '../components/Two2'
 import Three from '../components/Three'
 import Four from '../components/Four'
 import Five from '../components/Five'
@@ -23,6 +24,7 @@ class Home extends React.Component {
         <Banner />
         <One />
         <Two />
+        <TwoTwo />
         <Three />
         <Four />
         <Five />
