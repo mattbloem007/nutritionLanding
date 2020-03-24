@@ -6,8 +6,8 @@ const Banner = props => (
   <section id="banner">
     <div className="content">
 
-      <span>
-      <iframe src="https://player.vimeo.com/video/400223974" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+      <span className="container">
+        <iframe src="https://player.vimeo.com/video/400223974" width="100%" height="100%" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
       </span>
       <br/>
       <header>
