@@ -5,6 +5,11 @@ import { Link as ScrollLink } from 'react-scroll'
 const Banner = props => (
   <section id="banner">
     <div className="content">
+
+      <span>
+      <iframe src="https://player.vimeo.com/video/400223974" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+      </span>
+      <br/>
       <header>
         <h2>22 April - 06 May 2020</h2>
         <p>
@@ -13,9 +18,6 @@ const Banner = props => (
           Step into your BEST self.
         </p>
       </header>
-      <span className="image">
-        <img src={pic01} alt="intro" />
-      </span>
     </div>
     <ScrollLink
       to="one"
