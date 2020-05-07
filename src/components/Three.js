@@ -20,6 +20,8 @@ const Three = props => (
         <p>
         My name is Matthew Bloemetje. We were designed to be extraordinary and I am just a regular human being on the path of becoming an extraordinary being.
         I am a graduated, yet ever learning Sangoma and Cacao Kuchina.
+        </p>
+        <p>
         My ancestral name is Gabriel, from the Archangel Gabriel, whom I am honoured to be working with.
         As a facilitator, I have been blessed to unlock the ancient knowledge about nutrition and body-work healing.
         I have a complex understanding about the inner and outer workings of the body and brain and how to best optimize their functioning.
