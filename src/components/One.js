@@ -20,7 +20,7 @@ const One = props => (
               <header>
                 <h2>Detoxification is More Important than Nutrition</h2>
                 <p>
-                  Are you ready for an upgrade? UPDATE: This cleanse is now open for anyone at anytime. Book now and go through your own two week transformation guided by Matthew Gabriel.
+                  UPDATE: This cleanse is now open for anyone at anytime. Book now and go through your own two week transformation guided by Matthew Gabriel.
                   All the information, guidance and support will be given by Matthew Gabriel as a one on one.
                 </p>
               </header>
