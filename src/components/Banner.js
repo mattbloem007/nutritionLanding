@@ -11,7 +11,6 @@ const Banner = props => (
       </span>
       <br/>
       <header>
-        <h2>22 April - 06 May 2020</h2>
         <p>
           Feel good, Look good, Do Good
           <br />

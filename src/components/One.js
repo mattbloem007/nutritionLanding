@@ -25,7 +25,14 @@ const One = props => (
               </header>
             </div>
             <div className="col-4 col-12-medium">
+            <p>
+            UPDATE: This cleanse is now open for anyone at anytime. Book now and go through your own two week transformation guided by Matthew Gabriel.
+            All the information, guidance and support will be given by Matthew Gabriel as a one on one.
+            </p>
               <p>
+              UPDATE: This cleanse is now open for anyone at anytime. Book now and go through your own two week transformation guided by Matthew Gabriel.
+              All the information, guidance and support will be given by Matthew Gabriel as a one on one.
+
                 With the Corona virus floating around, many are stressing themselves from fear.
                 The truth is NO virus can take root in a clean system.
                 It is my intention to work in harmony with Nature to assist this precious cleaning time of the changing seasons with a powerful detox.
