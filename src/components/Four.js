@@ -14,30 +14,35 @@ const Four = props => (
               <span className="icon solid alt major fa-paper-plane"></span>
               <h3>Group Chats</h3>
               <p>
-                Feel supported and motivated with all those doing the cleanse in our Telegram group chat.
+                Feel supported and motivated with all those doing the course in our Telegram group chat.
+                Ask questions and receive answers through group discussions.
               </p>
             </section>
             <section className="col-4 col-6-medium col-12-xsmall">
               <span className="icon solid alt major fa-video"></span>
-              <h3>Three Live Zoom Calls</h3>
+              <h3>Weekly Live Zoom Calls</h3>
               <p>
-                Receive guidance and insights into the world of optimum health from Matthew, Gabriel.
+                Receive guidance and insights for the 6 modules from Matthew, Gabriel.
                 Share stories and intentions with everyone in the group.
+                Make notes and ask questions.
               </p>
             </section>
             <section className="col-4 col-6-medium col-12-xsmall">
               <span className="icon solid alt major fa-info-circle"></span>
-              <h3>Informational PDF Guide</h3>
+              <h3>Informational PDF Guides, Videos, and Links</h3>
               <p>
-                Receive the protocols for the 2 week cleanse in written form for easy viewing.
+                Receive downloadable information on all the topics and practices covered for the course.
+                All resources will be available for your convenience and deep study.
               </p>
             </section>
             <section className="col-4 col-6-medium col-12-xsmall">
               <span className="icon solid alt major fa-capsules"></span>
-              <h3>A Detox Bundle (Optional)</h3>
+              <h3>A Nutritional Bundle (Optional)</h3>
               <p>
-                Supplement bundle specifically designed to efficiently cleanse the system and
-                strengthen your immunity to all diseases. (Details to come)
+                Superherbs and superfoods that will be discussed during this course. These can be used
+                to enhance your learning abilities.
+                The use and practices of this bundle will also provide a visceral experience
+                of the transmission provided during this course.
               </p>
             </section>
           {/**<section className="col-4 col-6-medium col-12-xsmall">
@@ -62,7 +67,7 @@ const Four = props => (
           <ul className="actions special">
             <li>
               <a target="_blank" href="http://41.185.8.137/~xic02/alchemyofremembrance/" className="button">
-                Sign Me Up to the 2 week Detox
+                Sign Me Up for the Course
               </a>
             </li>
           </ul>

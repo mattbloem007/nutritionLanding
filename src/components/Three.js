@@ -29,7 +29,7 @@ const Three = props => (
         <ul className="actions">
           <li>
             <a target="_blank" href="http://41.185.8.137/~xic02/alchemyofremembrance/" className="button">
-              Join The Cleanse
+              Join The Course
             </a>
           </li>
         </ul>

@@ -12,9 +12,11 @@ const Banner = props => (
       <br/>
       <header>
         <p>
-          Feel good, Look good, Do Good
+          Heal Yourself
           <br />
-          Step into your BEST self.
+          Heal The Community
+          <br />
+          Heal The World
         </p>
       </header>
     </div>

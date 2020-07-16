@@ -15,18 +15,18 @@ const Two = props => (
     <Fade right big>
       <div className="content">
         <header>
-          <h2>Love Yourself Enough, To Heal Yourself</h2>
-          <p>A Journey to Self-Love through Cleansing</p>
+          <h2>Mystical Art meets Solid Science</h2>
+          <p>A 6 week Journey of Understanding the Human Body</p>
         </header>
         <p>
-          The ultimate gift you can give yourself is the gift of feeling your best.
-          Your greatest potential is right around the corner. This cleanse is here to help
-          you get rid of the unhealthy habits and start a positive momentum for your future.
+          This teaching will bring the understanding of the intricate relationship between food
+          and our state of being. IxCacao is both a superfood and a Hand Maiden who will
+          support you during your deep study of how the body works physically and energetically.
         </p>
         <ul className="actions">
           <li>
             <a target="_blank" href="http://41.185.8.137/~xic02/alchemyofremembrance/" className="button">
-              Join The Cleanse
+              Join The Course
             </a>
           </li>
         </ul>

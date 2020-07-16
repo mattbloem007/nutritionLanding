@@ -18,26 +18,29 @@ const TwoTwo = props => (
       <div className="row">
       <div className="col-4 col-12-medium">
         <header>
-          <h2>Two Week Protocol</h2>
+          <h2>What you will learn</h2>
         </header>
         </div>
         <div className="col-4 col-12-medium">
         <p>
-          <h4>Week One Protocol</h4>
-          All liquids throughout the day with one meal for either lunch or dinner.
-          This meal is best to contain lots of vegetables raw and/or cooked.
-          Focus on getting different colours in the meal and good sources of fiber.
-          It is best to refrain from dairy and meat.
-          Eggs are ok as long as they are free range.
-          Slowly reduce the intake of eggs as the cleanse progresses.
-          Liquids can be juices, teas, smoothies and soups.
+          <h4>Nutritional tools</h4>
+            Certain superfood and superherbs that will transform your daily food into medicine which can heal
+            and unlock the hidden potentials within.
         </p>
         </div>
         <div className="col-4 col-12-medium">
         <p>
-          <h4>Week Two Protocol</h4>
-          All liquids throughout the day.  Liquids can be juices, teas, smoothies and soups.
-          Slowly reduce the fiber intake by having more water, teas and juices.
+          <h4>Personalised Lifestyle</h4>
+          Practices and information in this course are the buidling blocks to a personalised
+          lifestyle that will support your needs in life
+        </p>
+        </div>
+        <div className="col-4 col-12-medium">
+        <p>
+          <h4>Prayer in the Kitchen</h4>
+          We will explore the idea of the sacredness of food thorugh conscious ceremony/praryer. This is
+          an important and forgotten nutrient that has a powerful impact on how we preapre and receive
+          nourishment.
         </p>
         </div>
       </div>

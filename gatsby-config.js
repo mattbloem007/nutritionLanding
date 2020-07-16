@@ -1,9 +1,9 @@
 module.exports = {
   //pathPrefix: `/mygatsby`,
   siteMetadata: {
-    title: 'Group Cleanse 2020',
+    title: 'Nutritional Technology Course',
     author: 'Matthew Gabriel',
-    description: 'An Information website on the upcoming Group Cleanse',
+    description: 'An Information website on the Nutritional Technology Course',
     menuLinks: [
       {
         name: 'Home',

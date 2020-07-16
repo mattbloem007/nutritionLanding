@@ -18,29 +18,22 @@ const One = props => (
           <div className="row">
             <div className="col-4 col-12-medium">
               <header>
-                <h2>Detoxification is More Important than Nutrition</h2>
-                <p>
-                UPDATE: This cleanse is now open for anyone at anytime. Book now and go through your own two week transformation guided by Matthew Gabriel.
-                All the information, guidance and support will be given by Matthew Gabriel as a one on one.
-                </p>
+                <h2>Nutritional Technology</h2>
               </header>
             </div>
             <div className="col-4 col-12-medium">
               <p>
-                With the Corona virus floating around, many are stressing themselves from fear.
-                The truth is NO virus can take root in a clean system.
-                It is my intention to work in harmony with Nature to assist this precious cleaning time of the changing seasons with a powerful detox.
-                This is never an easy task, it is deep shadow work that cleans all levels of our being.
-                That is why this year, I have decided to invite a group to join me so we can assist each other as we all go through the same process.
-                TOGETHER is always BETTER.
+                Learn the culinary powers of food to rebuild and strengthen the nervouse system.
+                Bringing back balance and attaining freater spiritual heights.
               </p>
             </div>
             <div className="col-4 col-12-medium">
               <p>
-                Are your energy levels not where they used to be when you were younger? Are you fighting on and off sicknesses?
-                A cleanse will help you hit the reset button on your life.
-                It is a way to stop ALL things that are creating dis-ease rather than looking for another cure.
-                This is a key to find  balance on a physical, emotional, mental and spiritual level.
+                In the pursuit of embodiment, one of the fundamental practices we engage in, is eating
+                food for sustenance. How do we relate to food? What is true nourishment?
+                What is sustenance? We take a deep look into these questions in this course
+                in order to heal our relationship with food. This is a a huge gateway into fully
+                expressing our spiritual nature as human beings - the essence of embodiment.
               </p>
             </div>
           </div>
